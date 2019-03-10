@@ -1,0 +1,16 @@
+{
+  "liczba_zadan": 5,
+  "zadania":
+  [
+    {
+      "id": 1,
+      "priorytet": 1,
+      "opis": "Nakarm zwierzaka"
+    },
+    {
+      "id": 5,
+      "priorytet": 1,
+      "opis": "Zrob obiad"
+    }
+  ]
+}
